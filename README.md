@@ -24,3 +24,5 @@ Use console.table to print MySQL rows to the console. There is a built-in versio
 
 npm install console.table --save
 
+After that, you can run the code using Node.js by executing the following command in your terminal: node server.js
+
